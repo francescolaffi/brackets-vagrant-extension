@@ -1,0 +1,16 @@
+{
+    "name": "francescolaffi.vagrant",
+    "title": "Vagrant",
+    "description": "Vagrant integration: for now just Vagrantfile syntax highliting. Open roadmap: submit your idea or pull request!",
+    "homepage": "https://github.com/francescolaffi/brackets-vagrant-extension",
+    "version": "0.1.0",
+    "author": "Francesco Laffi <francesco@laffi.io> (http://flweb.it)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.30.0"
+    },
+    "keywords": [
+        "Vagrant",
+        "Vagranfile",
+    ]
+}
